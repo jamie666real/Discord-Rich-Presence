@@ -1,23 +1,23 @@
 {
-    "application_id": "YOUR_APP_ID",
+    "application_id": "1517265054314008586",
     "timer_interval": 10,
     "message_sets": [
         {
-            "name": "PROJECT_CW",
+            "name": "GitHub",
             "details": {
-                "text": "Project Cold War",
+                "text": "Coding on GitHub",
                 "enabled": true
             },
             "state": {
-                "text": "Closed Alpha",
+                "text": "GitHub",
                 "enabled": true
             },
             "large_image": {
-                "key": "https://i.imgur.com/Jz5brEb.gif",
+                "key": "https://cdn.discordapp.com/emojis/1037230221880999956.webp?size=128&animated=true",
                 "enabled": true
             },
             "small_image": {
-                "key": "https://i.imgur.com/L05svfQ.png",
+                "key": "https://cdn.discordapp.com/emojis/1037230221880999956.webp?size=128&animated=true",
                 "enabled": true
             },
             "large_text": {
